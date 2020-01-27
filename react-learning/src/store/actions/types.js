@@ -1,0 +1,6 @@
+export const FETCH_SCHEDULE_SHOWS = "FETCH_SCHEDULE_SHOWS";
+export const FETCH_SHOW = "FETCH_SHOW";
+export const FETCH_VOICE_SPEECH = "FETCH_VOICE_SPEECH";
+export const ERROR = "ERROR";
+export const LOADING = "LOADING";
+export const CONVERT_TEXT_TO_SPEECH = "CONVERT_TEXT_TO_SPEECH";

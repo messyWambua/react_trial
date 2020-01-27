@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Shows /> component renders without crashing 1`] = `
+<div>
+  <div
+    className="app-root"
+  >
+    <ul
+      className="MuiGridList-root grid"
+      style={
+        Object {
+          "margin": -5,
+        }
+      }
+    >
+      <a
+        className="MuiGridListTile-root"
+        data-test="shows-cards-test"
+        href="/shows/15779"
+        onClick={[Function]}
+        onMouseEnter={[Function]}
+        onMouseLeave={[Function]}
+        style={
+          Object {
+            "height": 410,
+            "padding": 5,
+            "width": "16.666666666666668%",
+          }
+        }
+      >
+        <div
+          className="MuiGridListTile-tile"
+        >
+          <img
+            alt="CBS News Sunday Morning"
+            src="http://static.tvmaze.com/uploads/images/medium_portrait/90/226497.jpg"
+          />
+          <div
+            className="MuiGridListTileBar-root MuiGridListTileBar-titlePositionBottom MuiGridListTileBar-rootSubtitle"
+          >
+            <div
+              className="MuiGridListTileBar-titleWrap"
+            >
+              <div
+                className="MuiGridListTileBar-title"
+              >
+                CBS News Sunday Morning
+              </div>
+              <div
+                className="MuiGridListTileBar-subtitle"
+              >
+                <span>
+                  season: 
+                  2019
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+    </ul>
+  </div>
+</div>
+`;
